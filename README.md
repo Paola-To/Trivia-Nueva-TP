@@ -13,5 +13,4 @@ INSTRUCCIONES
 5. Al finalizar, tendras la opcion de finalizar el juego o bien, de iniciar de nuevo.
 
 AUTORES
-Torres Betancourt Paola
-Juarez Diaz Tania Elizabeth
+Paola Torres/Tania Juárez
